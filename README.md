@@ -1,4 +1,5 @@
-# Project---Automating-Codechef-Submissions
+# Project---CC Submission Automation
+
 Enjoy looking at your solution being submitted at codechef automatically :-
   - Type solution to a problem in your favourite ide.
   - Save the file.
